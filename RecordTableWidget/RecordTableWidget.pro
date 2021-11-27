@@ -25,7 +25,7 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         src/main.cpp \
-        src/recordtablewidget.cpp
+        src/mainrecordtablewidget.cpp
 
 HEADERS += \
-        src/recordtablewidget.h
+        src/mainrecordtablewidget.h
